@@ -78,6 +78,10 @@ cualquier cosa que haga que las máquinas actúen de manera más inteligente.
 ![Ejemplos](imagenes/ejemplos.png)
 
 
+## Vision por computadora en oceanos
+
+![](imagenes/iabot.png)
+[IA en oceanos](https://code.org/oceans)
 
 
-
+## Fin del recurso {background-color="blue"}
