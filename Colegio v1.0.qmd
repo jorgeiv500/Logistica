@@ -1,0 +1,83 @@
+---
+title: Inteligencia Artificial  
+css: 'custom.css'
+subtitle: "fundamentos y aplicaciones"
+author: Jorge Ivan Romero
+footer: "XVI Olimpiada de Informática y Tecnología"
+logo: logo.png
+code-annotations: hover
+format: 
+  revealjs:
+    scrollable: true
+    theme: custom.scss
+    transition: slide
+    chalkboard: true
+    preview-links: auto
+    background-transition: fade
+    menu:
+      side: left
+      width: third
+
+execute:
+  echo: false
+jupyter: python3
+---
+## ¿Que pasara con el mundo debido a la IA? {background-color="aquamarine"}
+
+
+- Qué es la inteligencia artificial?
+- La inteligencia artificial va a reemplazarnos? 
+- Existe una preocupación real?
+
+![](imagenes/termin-removebg-preview.png) 
+
+
+# Un inicio prometedor {background-color="yellow"}
+
+Imaginen un mundo donde la tecnología y la humanidad se entrelazan de manera que amplíen nuestras capacidades más allá de lo imaginable. 
+
+
+## IA {auto-animate=true, background-color="black"}
+
+
+
+## IA {auto-animate=true, background-color="black"}
+
+cualquier cosa que haga que las máquinas actúen de manera más inteligente.
+
+![IA en el Trabajo](imagenes/ia.png)
+
+
+---
+
+## Inteligencia aumentada {background-color="blue"}
+![](imagenes/Google-Noto-Emoji-People-Clothing-Objects-12130-brain.512.png){width=4in}
+
+---
+
+## Inteligencia aumentada {background-color="blue"}
+- Facilitador de Expertos: Proporciona información necesaria para la toma de decisiones.
+- Automatización de Tareas: Libera a los humanos de tareas repetitivas.
+- Personalización en la Era Digital: Ofrece soluciones personalizadas usando análisis de datos.
+
+
+---
+
+## Cómo aprende la IA: Métodos y Aplicaciones {background-color="orange"}
+
+- Aprendizaje Automático: Modelos que aprenden de ejemplos.
+- Métodos de Aprendizaje: Supervisado, no supervisado, y por refuerzo.
+- Aplicaciones Prácticas: Asistentes virtuales, vehículos autónomos, y más.
+
+## Cómo aprende la IA: Métodos y Aplicaciones {background-color="orange"}
+
+![Clasificación](imagenes/clasificacion.png)
+
+## Cómo aprende la IA: Métodos y Aplicaciones {background-color="orange"}
+
+![Ejemplos](imagenes/ejemplos.png)
+
+
+
+
+
